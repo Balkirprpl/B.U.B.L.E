@@ -3,11 +3,11 @@ Basic Universal Binary Liason Exploiter,
 a Binary automated exploitation tool.
 
 # Usage
-exploit.py  - Main program, connects to ctfd.io's website, downloads binaries and sends flags.
-finder.py  - Used on binaries and discovers what exploit to use.
-padderia.py  - Used to find padding in binaries that require stack overflow
-buble.py  - Used to exploit binaries and returns a payload that can be used in remote.
-libcleak.py  - Used to find libc leaks in binaries and other gadgets
+exploit.py  - Main program, connects to ctfd.io's website, downloads binaries and sends flags. <br>
+finder.py  - Used on binaries and discovers what exploit to use.<br>
+padderia.py  - Used to find padding in binaries that require stack overflow.<br>
+buble.py  - Used to exploit binaries and returns a payload that can be used in remote.<br>
+libcleak.py  - Used to find libc leaks in binaries and other gadgets.<br>
 
 
 # Example Binaries
