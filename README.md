@@ -1,5 +1,5 @@
-# B.U.B.L.E
-Basic Universal Binary Liason Exploiter,
+# B.U.B.B.L.E
+Breach Universal Binary Based Logic Exploiter,
 a Binary automated exploitation tool.
 
 # Usage
